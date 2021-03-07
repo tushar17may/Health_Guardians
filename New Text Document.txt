@@ -1,0 +1,5 @@
+notes
+1.uuid hmein ek nayi id deti hai har baar
+2.ejs ek emplate engine hai
+3.peer.js is a library crete connections between different users using webrtc 
+4. what peer does is it takes all of the webrtc information for a user and turns it into really easy to use id which we can pass b/w different places and can use with peer library to connect with other peerson the network 

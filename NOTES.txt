@@ -1,0 +1,19 @@
+WORKING:
+
+STEP1. in first termial write 
+
+npm i (to install all the dependencies)
+npm run devStart
+
+STEP2. in another terminal write
+
+optional: Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted (this you have to write if your computer doesn't allo scripts to run)
+peerjs --port 3001
+
+(for starting our peerjs on port 3001 for a new peer/user)
+
+step3. go to browser on localhost:3000
+step4. copy the url eg.(localhost:3000/54revbs788wtw) 
+step5. paste the copied url into another browser to connect to the room
+
+remember: we are accessing the room from the same url but the userid is different for different peers
