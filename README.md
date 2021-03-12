@@ -23,7 +23,7 @@
 
 ## Installation and Running
 
-### Get a Mapbox Token and add it to <Your Mapbox Token>
+### Get a Mapbox Token and add it to `<Your Mapbox Token>`
 
 #### In First Terminal
 * npm i 
